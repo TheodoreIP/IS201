@@ -1,0 +1,48 @@
+p{
+    /*font-weight: bold;
+    font-size: 30px;*/
+    font-size:medium;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+/*.emphasizedText{
+    font-style: italic;
+}
+
+.emphasizedText{
+    color: blue;
+}*/
+
+body{
+    background-color: #BDD6E6;/*whitesmoke; #BDD6E6;*/
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    color: black;
+    border: 5px solid black;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
+
+.Experience{
+    left: 500px;
+}
+
+h2{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.TableauVisual{
+    width: 800px; margin: 0 auto; height: 600px;
+}
